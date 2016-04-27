@@ -1,6 +1,6 @@
 package org.javarush.bigtask.kitchen;
 
-import com.javarush.test.level27.lesson15.big01.Tablet;
+import org.javarush.bigtask.Tablet;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
-package com.javarush.test.level27.lesson15.big01.statistic.event;
+package org.javarush.bigtask.statistic.event;
 
-import com.javarush.test.level27.lesson15.big01.kitchen.Dish;
+import org.javarush.bigtask.kitchen.Dish;
 
 import java.util.Date;
 import java.util.List;

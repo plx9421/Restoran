@@ -1,4 +1,4 @@
-package com.javarush.test.level27.lesson15.big01;
+package org.javarush.bigtask;
 
 import java.util.ArrayList;
 import java.util.List;

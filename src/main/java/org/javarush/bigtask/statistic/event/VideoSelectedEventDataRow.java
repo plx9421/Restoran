@@ -1,6 +1,6 @@
-package com.javarush.test.level27.lesson15.big01.statistic.event;
+package org.javarush.bigtask.statistic.event;
 
-import com.javarush.test.level27.lesson15.big01.ad.Advertisement;
+import org.javarush.bigtask.ad.Advertisement;
 
 import java.util.Date;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.javarush.test.level27.lesson15.big01.kitchen;
+package org.javarush.bigtask.kitchen;
 
 /**
  * Created by Alexey on 05.04.2016.

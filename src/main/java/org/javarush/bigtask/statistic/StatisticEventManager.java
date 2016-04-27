@@ -1,10 +1,10 @@
-package com.javarush.test.level27.lesson15.big01.statistic;
+package org.javarush.bigtask.statistic;
 
-import com.javarush.test.level27.lesson15.big01.kitchen.Cook;
-import com.javarush.test.level27.lesson15.big01.statistic.event.CookedOrderEventDataRow;
-import com.javarush.test.level27.lesson15.big01.statistic.event.EventDataRow;
-import com.javarush.test.level27.lesson15.big01.statistic.event.EventType;
-import com.javarush.test.level27.lesson15.big01.statistic.event.VideoSelectedEventDataRow;
+import org.javarush.bigtask.kitchen.Cook;
+import org.javarush.bigtask.statistic.event.CookedOrderEventDataRow;
+import org.javarush.bigtask.statistic.event.EventDataRow;
+import org.javarush.bigtask.statistic.event.EventType;
+import org.javarush.bigtask.statistic.event.VideoSelectedEventDataRow;
 
 import java.util.*;
 

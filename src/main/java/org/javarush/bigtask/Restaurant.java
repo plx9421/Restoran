@@ -1,8 +1,8 @@
-package com.javarush.test.level27.lesson15.big01;
+package org.javarush.bigtask;
 
-import com.javarush.test.level27.lesson15.big01.kitchen.Cook;
-import com.javarush.test.level27.lesson15.big01.kitchen.Order;
-import com.javarush.test.level27.lesson15.big01.kitchen.Waitor;
+import org.javarush.bigtask.kitchen.Cook;
+import org.javarush.bigtask.kitchen.Order;
+import org.javarush.bigtask.kitchen.Waitor;
 
 import java.util.ArrayList;
 import java.util.List;

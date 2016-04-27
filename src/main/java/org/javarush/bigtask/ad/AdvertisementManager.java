@@ -1,8 +1,8 @@
-package com.javarush.test.level27.lesson15.big01.ad;
+package org.javarush.bigtask.ad;
 
-import com.javarush.test.level27.lesson15.big01.ConsoleHelper;
-import com.javarush.test.level27.lesson15.big01.statistic.StatisticEventManager;
-import com.javarush.test.level27.lesson15.big01.statistic.event.VideoSelectedEventDataRow;
+import org.javarush.bigtask.ConsoleHelper;
+import org.javarush.bigtask.statistic.StatisticEventManager;
+import org.javarush.bigtask.statistic.event.VideoSelectedEventDataRow;
 
 import java.util.ArrayList;
 import java.util.Collections;

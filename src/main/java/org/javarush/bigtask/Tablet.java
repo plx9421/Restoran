@@ -1,10 +1,10 @@
-package com.javarush.test.level27.lesson15.big01;
+package org.javarush.bigtask;
 
 
-import com.javarush.test.level27.lesson15.big01.ad.AdvertisementManager;
-import com.javarush.test.level27.lesson15.big01.ad.NoVideoAvailableException;
-import com.javarush.test.level27.lesson15.big01.kitchen.Order;
-import com.javarush.test.level27.lesson15.big01.kitchen.TestOrder;
+import org.javarush.bigtask.ad.AdvertisementManager;
+import org.javarush.bigtask.ad.NoVideoAvailableException;
+import org.javarush.bigtask.kitchen.Order;
+import org.javarush.bigtask.kitchen.TestOrder;
 
 import java.io.IOException;
 import java.util.concurrent.LinkedBlockingQueue;

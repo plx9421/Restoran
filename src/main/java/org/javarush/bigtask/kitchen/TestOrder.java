@@ -1,6 +1,6 @@
-package com.javarush.test.level27.lesson15.big01.kitchen;
+package org.javarush.bigtask.kitchen;
 
-import com.javarush.test.level27.lesson15.big01.Tablet;
+import org.javarush.bigtask.Tablet;
 
 import java.io.IOException;
 import java.util.ArrayList;

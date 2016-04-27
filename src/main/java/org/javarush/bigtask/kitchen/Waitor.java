@@ -1,6 +1,6 @@
-package com.javarush.test.level27.lesson15.big01.kitchen;
+package org.javarush.bigtask.kitchen;
 
-import com.javarush.test.level27.lesson15.big01.ConsoleHelper;
+import org.javarush.bigtask.ConsoleHelper;
 
 import java.util.Observable;
 import java.util.Observer;

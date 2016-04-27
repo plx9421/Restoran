@@ -1,8 +1,8 @@
-package com.javarush.test.level27.lesson15.big01;
+package org.javarush.bigtask;
 
-import com.javarush.test.level27.lesson15.big01.ad.Advertisement;
-import com.javarush.test.level27.lesson15.big01.ad.StatisticAdvertisementManager;
-import com.javarush.test.level27.lesson15.big01.statistic.StatisticEventManager;
+import org.javarush.bigtask.ad.Advertisement;
+import org.javarush.bigtask.ad.StatisticAdvertisementManager;
+import org.javarush.bigtask.statistic.StatisticEventManager;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

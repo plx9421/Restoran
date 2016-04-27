@@ -1,8 +1,8 @@
 package org.javarush.bigtask.ad;
 
-import com.javarush.test.level27.lesson15.big01.Tablet;
-import com.javarush.test.level27.lesson15.big01.kitchen.Dish;
-import com.javarush.test.level27.lesson15.big01.kitchen.Order;
+import org.javarush.bigtask.Tablet;
+import org.javarush.bigtask.kitchen.Dish;
+import org.javarush.bigtask.kitchen.Order;
 import org.junit.Test;
 
 import java.util.ArrayList;
